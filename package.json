@@ -1,0 +1,24 @@
+{
+  "name": "fulfillment",
+  "version": "1.0.0",
+  "description": "A Promise with exposed resolver/rejector",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visum/fulfillment.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "fulfillment"
+  ],
+  "author": "Benjamin Howe <bdhowe@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/visum/fulfillment/issues"
+  },
+  "homepage": "https://github.com/visum/fulfillment#readme"
+}
